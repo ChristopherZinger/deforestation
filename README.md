@@ -11,7 +11,9 @@ For app to work you need to provide 2 api keys
 
 cd svelte-app
 > npm run i
+
 > npm run build
+
 > npm run start
 
 go to localhost:5000 in your browser
