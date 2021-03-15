@@ -1,8 +1,8 @@
 ### Assignment
 
-# Lunching :
+## Launching :
 
-For app to work you need to provide 2 api keys
+For the app to work you need to provide 2 api keys
  - mapbox api_key 
  - wmts api_key 
 
